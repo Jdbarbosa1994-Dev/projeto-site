@@ -9,6 +9,12 @@ body{
     background-color: #7c5294;
 }
 
+img.lado{
+    float: right;
+    margin-left: 10px;
+    width: 100px;
+}
+
 main{
     background-color: #fff;
     width: 500px;
